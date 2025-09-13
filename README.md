@@ -8,17 +8,17 @@ This app includes:
 - Video call interface powered by Daily.co
 - Integration with Tavus API for conversation management
 
-|                                                                    |                                                                                              |
-| ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
-| ![Prejoin UI](https://cdn.replica.tavus.io/git-examples/scr-1.png) | ![Hair check UI](https://cdn.replica.tavus.io/git-examples/scr-2.png) |
-| ![in-call UI](https://cdn.replica.tavus.io/git-examples/scr-3.png) |
 
 
 ## 🎥 Demo Video
 
 Check out our demo video to see the Conversational Video Interface in action:
 
-[Watch the Demo](https://www.loom.com/share/b4e3ef661e264260a8d8f4cede48aaa8?sid=ada64974-5495-4c52-b635-7ac76b543208)
+
+
+https://github.com/user-attachments/assets/fa13e242-31f6-44db-a7b0-407e230ffb01
+
+
 
 
 
@@ -39,10 +39,3 @@ Check out our demo video to see the Conversational Video Interface in action:
    ```
    npm run dev
    ```
-
-## 📚 Learn More
-
-- [Developer Documentation](https://docs.tavus.io/)
-- [API Reference](https://docs.tavus.io/api-reference/)
-- [Tavus Platform](https://platform.tavus.io/)
-- [Daily React Reference](https://docs.daily.co/reference/daily-react)
