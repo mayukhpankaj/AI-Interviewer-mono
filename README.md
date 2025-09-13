@@ -1,4 +1,4 @@
-# Tavus Conversational Video Interface
+# AI interviewer interface
 
 ## 🚀 Features
 
